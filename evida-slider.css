@@ -1,0 +1,40 @@
+﻿
+.sliderplus { direction:ltr; background:#FFF; margin-bottom:20px;}
+.image_carousel {
+	padding: 15px 0 15px 20px;
+	position: relative;
+}
+.image_carousel a {
+display: block;
+float: left;
+}
+.image_carousel img {
+	border: 1px solid #FFF;
+	background-color: #f7f7f7;
+	padding: 9px;
+	margin: 7px;
+	display: block;
+	float: left;
+}
+a.prev, a.next {
+	background: url(https://i73.servimg.com/u/f73/14/44/77/00/miscel10.png) no-repeat transparent;
+	width: 45px;
+	height: 50px;
+	display: block;
+	position: absolute;
+	top: 85px;
+}
+a.prev {			left: -22px;
+					background-position: 0 0; }
+a.prev:hover {		background-position: 0 -50px; }
+a.next {			right: -22px;
+					background-position: -50px 0; }
+a.next:hover {		background-position: -50px -50px; }
+
+a.prev span, a.next span {
+	display: none;
+}
+.clearfix {
+	float: none;
+	clear: both;
+}

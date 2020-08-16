@@ -1,0 +1,30 @@
+.droidfont, h1, h2, h3, h4, .fourms-info ul.status-forum li, .fourms-class p, .home-title, .foot_nav, ul.top_menu li, .login-box ul.login_details li, .evmenu_thead, .search_header .search_input, .login-box, ul.goingon-box li .cm_newuser, .ev_postbit .post_left .ev_post_signature .ev_head_signature {font-family:"Droid Arabic Kufi", Trebuchet MS, Arial, Helvetica, sans-serif !important; }
+.arialfont, ul.goingon-box li .cm_activeusers span, .threadtitle, ul.head_postbit li.post_title h1 { font-family:Arial, Times New Roman, Times, Helvetica !important; }
+.tahoma, .signin-session .newaccount { font-family:tahoma, Times New Roman, Times, Helvetica !important; }
+input, textarea, h1, h1 a, h2, h2 a, h3, h3 a, h4, h4 a, .jqueryslidemenu ul li > a, .bx-wrapper .bx-prev, .bx-wrapper .bx-next, a, .social a, .evmenu_popup_auto ul.subforum_down li:hover, ul.socialSite li a { -webkit-transition: all 0.3s ease-out; -moz-transition: all 0.3s ease-out; -ms-transition: all 0.3s ease-out; -o-transition: all 0.3s ease-out; transition: all 0.3s ease-out; }
+.ev_bgdor, .ev_attachments fieldset, .ev_postbit .post_left .ev_post_message, .ev_postbit .ev_post_signature, .ev_postbit .post_bottom .ev_post_message { background:#FFF !important; border:1px solid #e0e0e0 !important;}
+.ev_notify { position: relative;display: block;line-height: normal;padding:0;font-size: 11px;color: #444;width:100%;}
+.notify_normal {background: #fffae9 url(https://i73.servimg.com/u/f73/14/44/77/00/notify10.png) no-repeat top left; border: 1px solid #e1ded3;padding: 15px 15px 15px 42px;}
+.evida_switchsize_full { position: fixed; left:0; top:50%; width:21px; height:21px; background-position:-1px -202px; cursor:pointer;}
+.evida_switchsize_dafault { position: fixed; left:23px; top:50%; width:21px; height:21px; background-position:-25px -202px; cursor:pointer;}
+#evside{width:245px;position:fixed;left:-201px;top:53%;}
+#EVcolorHandle{background-position:-1px -228px;height:44px;width:44px;float:left;cursor:pointer;}
+.EVcolorContent{float:left;width:200px;height:44px;background-color:#FFF;}
+.evcolor_calme { background-color:#499b8c; width:15px; height:15px; float:right; margin:5px 3px 0 3px;}
+.evcolor_orange { background-color:#ec7b56; width:15px; height:15px; float:right; margin:5px 3px 0 3px;}
+.evcolor_blue { background-color:#97DAE2; width:15px; height:15px; float:right; margin:5px 3px 0 3px;}
+.evcolor_yellow { background-color:#F9DB76; width:15px; height:15px; float:right; margin:5px 3px 0 3px;}
+.evcolor_gray { background-color:#383838; width:15px; height:15px; float:right; margin:5px 3px 0 3px;}
+.evcolor_purple { background-color:#9e96c4; width:15px; height:15px; float:right; margin:5px 3px 0 3px;}
+.evcolor_green { background-color:#99b15d; width:15px; height:15px; float:right; margin:5px 3px 0 3px;}
+.evcolor_pink { background-color:#e4578d; width:15px; height:15px; float:right; margin:5px 3px 0 3px;}
+.evcolor_deepblue { background-color:#146DC7; width:15px; height:15px; float:right; margin:5px 3px 0 3px;}
+.evcolor_red { background-color:#cc333f; width:15px; height:15px; float:right; margin:3px 3px 0 3px;}
+.evcolor_lightgray { background-color:#d5d5d5; width:15px; height:15px; float:right; margin:3px 3px 0 3px;}
+.evcolor_boven { background-color:#F4A673; width:15px; height:15px; float:right; margin:3px 3px 0 3px;}
+.evcolor_darkgreen { background-color:#119d55; width:15px; height:15px; float:right; margin:3px 3px 0 3px;}
+.evcolor_meety { background-color:#995664; width:15px; height:15px; float:right; margin:3px 3px 0 3px;}
+.evcolor_brown { background-color:#a1765a; width:15px; height:15px; float:right; margin:3px 3px 0 3px;}
+.evcolor_darkblue { background-color:#00b1bd; width:15px; height:15px; float:right; margin:3px 3px 0 3px;}
+.evcolor_tulip { background-color:#FC7881; width:15px; height:15px; float:right; margin:3px 3px 0 3px;}
+.evcolor_tenten { background-color:#807f6b; width:15px; height:15px; float:right; margin:3px 3px 0 3px;}
