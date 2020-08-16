@@ -10,10 +10,10 @@
 /* Fonts */
 @font-face {
     font-family: "Droid Arabic Kufi";
-    src: url("https://a7la-deve.github.io/color/droidkufiregular.otf");
-    src: url("https://a7la-deve.github.io/color/DroidKufi-Regular.eot?#iefix") format("embedded-opentype"),
-         url("https://a7la-deve.github.io/color/droidkufiregular.ttf") format("truetype"),
-         url("https://a7la-deve.github.io/color/droidkufiregular.svg#Droid Arabic Kufi") format("svg");
+    src: url("https://a7la-deve.github.io/a7la7ekaya/droidkufiregular.otf");
+    src: url("https://a7la-deve.github.io/a7la7ekaya/DroidKufi-Regular.eot?#iefix") format("embedded-opentype"),
+         url("https://a7la-deve.github.io/a7la7ekaya/droidkufiregular.ttf") format("truetype"),
+         url("https://a7la-deve.github.io/a7la7ekaya/droidkufiregular.svg#Droid Arabic Kufi") format("svg");
     font-weight: normal;
     font-style: normal;
 }
