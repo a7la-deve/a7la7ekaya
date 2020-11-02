@@ -5,8 +5,14 @@ body {color: #333;font-family: Tahoma, Arial, sans-serif;font-size:11px;padding:
 .forumline  iframe[src^="https://www.geniusdexchange.com"] {
 	display: none;
 	}
-#taboola-below-desktop-forum-thumbnails{display:NONE;} 
+#taboola-below-desktop-forum-thumbnails div div {
 
+    display: none;
+}
+.trc_rbox_container div  div, .thumbnails-desktop-a [class*="span"]{
+    display: none;
+
+}
 .quote_bg {background-color:#f9f9f9; border:1px solid #dfdfdf; padding:5px; }
 .quote_title { position:relative; float:right; height:20px; width:60%; color:#333; margin:0 5px 10px 5px; height:30px;}
 .quote_title span { position:absolute; top:2px; color:#333; font-size:11px; margin:0px 5px 0px 5px; }
